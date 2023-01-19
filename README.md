@@ -10,7 +10,22 @@ In this work, diabetes prediction has been accomplished using the ML Classifier 
 > ![image](https://github.com/MonaemKhan/Early-Diabetes-Prediction-Using-Machine-Learning/blob/main/ML%20Proposed%20Model.jpg)
 
 # Install & Run the Project
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.globenewswire.com%2Fnews-release%2F2021%2F10%2F05%2F2309032%2F0%2Fen%2FStreamlit-Releases-Version-1-0-the-Fastest-Way-to-Build-and-Share-Machine-Learning-and-Data-Science-Apps-as-Surpasses-More-Than-4-5-Million-Downloads-in-2-Years.html&psig=AOvVaw2nNT5053WJ7hE4rqMpdMXN&ust=1674246268205000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMD1psK71PwCFQAAAAAdAAAAABAE)
+We use Streamlit to build the GUI,
+**The fastest way to build and share data apps.**
 
+Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our [Community Cloud platform](https://streamlit.io/cloud) to deploy, manage, and share your app!
+
+![Example of live coding an app in Streamlit|635x380](https://raw.githubusercontent.com/streamlit/docs/main/public/images/Streamlit_overview.gif)
+## Installation
+
+```bash
+pip install streamlit
+```
+If you don't have the sklearn libery file then install it using
+## Installation
+
+```bash
+pip install -U scikit-learn
+```
 
 
