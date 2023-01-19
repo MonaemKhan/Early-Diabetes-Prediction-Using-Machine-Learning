@@ -5,3 +5,7 @@ In this work, diabetes prediction has been accomplished using the ML Classifier 
 
 # Dataset Link
 > [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/).
+
+# Working Process
+> 
+
