@@ -7,7 +7,7 @@ In this work, diabetes prediction has been accomplished using the ML Classifier 
 > [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/).
 
 # Working Process
-> ![image](https://github.com/MonaemKhan/Early-Diabetes-Prediction-Using-Machine-Learning/blob/main/ML%20Proposed%20Model.jpg)
+> ![image](https://github.com/MonaemKhan/Early-Diabetes-Prediction-Using-Machine-Learning/blob/main/Pictures/ML%20Proposed%20Model.jpg)
 
 # Install & Run the Project
 We use Streamlit to build the GUI,
