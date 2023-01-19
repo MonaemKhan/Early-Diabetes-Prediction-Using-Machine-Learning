@@ -28,4 +28,7 @@ If you don't have the sklearn libery file then install it using
 pip install -U scikit-learn
 ```
 
-
+# Credits
+> [M.A Monaem Khan](https://github.com/MonaemKhan/).   
+> Md. Abu Sama  
+> Md. Alif Hossen Prince
