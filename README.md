@@ -9,6 +9,8 @@ In this work, diabetes prediction has been accomplished using the ML Classifier 
 # Working Process
 > ![image](https://github.com/MonaemKhan/Early-Diabetes-Prediction-Using-Machine-Learning/blob/main/Pictures/ML%20Proposed%20Model.jpg)
 
+For Implementation the above model [See this](https://github.com/MonaemKhan/Early-Diabetes-Prediction-Using-Machine-Learning/blob/main/Diabaties_Pediction.ipynb/). (Chose the best model and build the model) & [this](https://github.com/MonaemKhan/Early-Diabetes-Prediction-Using-Machine-Learning/blob/main/Diabeties%20Prediction%20(GUI)/app.py/).(build a GUI for the best model)
+
 # Install & Run the Project
 We use Streamlit to build the GUI,
 **The fastest way to build and share data apps.**
