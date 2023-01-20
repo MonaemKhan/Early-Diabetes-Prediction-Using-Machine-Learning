@@ -32,5 +32,5 @@ pip install -U scikit-learn
 
 # Credits
 > [M.A Monaem Khan](https://github.com/MonaemKhan/).   
-> Md. Abu Sama  
-> Md. Alif Hossen Prince
+> [Md. Abu Sama](https://github.com/MdAbuSama/).  
+> [Md. Alif Hossen Prince](https://github.com/alifhossenprince/).
